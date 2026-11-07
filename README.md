@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Banner de Tecnologia e Criatividade da Isabelle.png" width="100%" alt="Banner Isabelle Cortez">
+</p>
 👩‍💻 Olá! Eu sou a Isabelle Cortez!
 
 Seja bem-vindo(a) ao meu GitHub! 💜
